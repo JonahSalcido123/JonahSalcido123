@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JonahSalcido123
+- 👋 Hi, I’m Jonah Salcido.
 - 👀 I’m interested in creating video games
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
